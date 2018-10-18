@@ -1,0 +1,14 @@
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\bin\Debug\Header Content Controls.exe.config
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\bin\Debug\Header Content Controls.exe
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\bin\Debug\Header Content Controls.pdb
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\MainWindow.g.cs
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\App.g.cs
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header Content Controls_MarkupCompile.cache
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header Content Controls_MarkupCompile.lref
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\MainWindow.baml
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header Content Controls.g.resources
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header_Content_Controls.Properties.Resources.resources
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\TabItem.csproj.GenerateResource.cache
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\TabItem.csproj.CoreCompileInputs.cache
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header Content Controls.exe
+D:\Users\suvasaho\.Net Foldar\Header Content Controls\Header Content Controls\obj\Debug\Header Content Controls.pdb
